@@ -258,6 +258,8 @@ Documentação oficial e materiais auxiliares utilizados neste projeto.
 ### Hetzner Cloud
 - Documentação oficial:
   https://docs.hetzner.com/cloud/
+  https://github.com/hetznercloud
+
 
 - Servidores:
   https://docs.hetzner.com/cloud/servers/
@@ -280,6 +282,8 @@ Documentação oficial e materiais auxiliares utilizados neste projeto.
 
 - Boas práticas:
   https://developer.hashicorp.com/terraform/language/style
+
+
 
 ## 🤝 Contribuição
 
