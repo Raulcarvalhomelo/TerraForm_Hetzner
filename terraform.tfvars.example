@@ -1,0 +1,8 @@
+# Api Key Hetzner Cloud
+# HCLOUD_TOKEN = "API_key"
+
+# Tipo de servidor a ser provisionado (cx23, cx22, cx21, cx13, cx12, cx11)
+# SERVER_TYPE = "Tipo de servidor a ser provisionado"
+
+# Nome do servidor Name-Unico - pode ser digitado apos o terraform plan/apply
+# SERVER_NAME = "Nome do servidor"
