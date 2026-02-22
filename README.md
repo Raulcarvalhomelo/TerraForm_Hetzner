@@ -251,6 +251,36 @@ terraform output
 
 ---
 
+## 📎 Referências e Recursos Úteis
+
+Documentação oficial e materiais auxiliares utilizados neste projeto.
+
+### Hetzner Cloud
+- Documentação oficial:
+  https://docs.hetzner.com/cloud/
+
+- Servidores:
+  https://docs.hetzner.com/cloud/servers/
+
+- Locations e Datacenters:
+  https://docs.hetzner.com/cloud/general/locations/#what-datacenters-are-there
+
+- Tipos de servidores (Server Types):
+  https://docs.hetzner.com/cloud/servers/overview/
+  https://docs.hetzner.com/cloud/servers/overview/#server-types
+  https://www.hetzner.com/cloud/#pricing
+
+- Provider Terraform Hetzner:
+  https://registry.terraform.io/providers/hetznercloud/hcloud/latest
+
+### Terraform
+
+- Documentação oficial:
+  https://registry.terraform.io/providers/hetznercloud/hcloud/latest/docs
+
+- Boas práticas:
+  https://developer.hashicorp.com/terraform/language/style
+
 ## 🤝 Contribuição
 
 1. Criar branch
